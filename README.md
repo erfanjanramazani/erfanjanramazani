@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Frontend+Developer;React+Developer;UI+Designer" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Frontend+Developer;React+Developer;UI+Designer;Backend+Developer" />
 
 # 💫 About Me:
 Hi 👋 I'm **Erfan**
